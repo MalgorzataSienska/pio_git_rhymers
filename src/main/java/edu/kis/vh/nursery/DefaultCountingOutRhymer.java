@@ -1,4 +1,5 @@
 package edu.kis.vh.nursery;
+//settery przez pomylke usunelam przy pierwszym cwiczeniu
 
 public class DefaultCountingOutRhymer {
 
@@ -27,6 +28,7 @@ public class DefaultCountingOutRhymer {
     public int getTotal() {
         return total;
     }
+
 
     public int total = getNoneNumbers();
 
