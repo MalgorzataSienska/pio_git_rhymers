@@ -11,7 +11,7 @@ public class DefaultCountingOutRhymer {
 
     public static int getTOTAL() {
         return TOTAL;
-    }
+    } // TODO: Delete unnecessary getter
 
     public static int getMaxOfNumbers() {
         return MAX_OF_NUMBERS;
